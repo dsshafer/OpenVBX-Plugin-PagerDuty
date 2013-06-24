@@ -1,0 +1,5 @@
+{
+  "name" : "PD Dial",
+  "description" : "Dial the on-call user from a PagerDuty schedule.",
+  "type" : "voice"
+}
