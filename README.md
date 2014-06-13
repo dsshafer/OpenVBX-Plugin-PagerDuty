@@ -1,4 +1,7 @@
 OpenVBX-Plugin-PagerDuty
 ========================
 
-OpenVBX plugin to create PagerDuty incidents based on voice recordings and SMS messages
+PagerDuty plugin for OpenVBX
+
+* Route incoming calls based on a PagerDuty on-call schedule
+* Trigger new PagerDuty incidents when a voicemail message is recorded
